@@ -9,3 +9,11 @@ After making this application I decided to stuy php and server since saving imag
 and I wanted to store datas somewhere safe, rather than the smartphone itself with shared preferences.
 
 Also if you swipe the main page to the right, you’ll see a tap game I made just for fun. 
+
+Screenshots
+-----------
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/39916556/44595284-94d2a080-a803-11e8-9000-76e7d23ea189.png">
+<img width="200" src="https://user-images.githubusercontent.com/39916556/44595287-969c6400-a803-11e8-815e-8635d96694c2.png">
+<img width="200" src="https://user-images.githubusercontent.com/39916556/44595307-9d2adb80-a803-11e8-95bf-fc542d2b3150.png">
+</div>
