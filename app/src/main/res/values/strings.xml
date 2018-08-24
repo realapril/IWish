@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">I Wish</string>
+    <string-array name="titles">
+        <item>태비고양이</item>
+        <item>치즈고양이</item>
+        <item>삼색고양이</item>
+        <item>샴고양이</item>
+        <item>박스고양이</item>
+        <item>턱시도고양이</item>
+        <item>로켓고양이</item>
+        <item>웰시코기</item>
+        <item>너구리</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>귀여운 태비고양이이다. 태비는 줄무늬라는 뜻이다.</item>
+        <item>귀여운 치즈고양이이다. 치즈고양이는 행복해보인다.</item>
+        <item>귀여운 삼색고양이이다. 삼색고양는 대부분 암컷이다.</item>
+        <item>샴고양이는 시암왕실에서 영국에 선물한 후 샴고양이라고 불리게 되었다.</item>
+        <item>박스 안에서 나올 생각이 없어보인다.</item>
+        <item>한껏 차려입은 턱시도고양이다.</item>
+        <item>독보적인 로켓고양이다.</item>
+        <item>이 웰시코기는 고양이가 좋아서 놀러왔다가 눌러앉았다.</item>
+        <item>고양이인척하는 너구리이다.</item>
+    </string-array>
+    <string-array name="titles2">
+        <item>진화</item>
+        <item>염력</item>
+
+    </string-array>
+    <string-array name="descriptions2">
+        <item>너무 열심히 눌렀나? 화면을 한 번 눌러서 두 개의 별을 얻게 되었다.</item>
+        <item>초능력이 생겨 화면을 누를 때마다 세 개의 별을 얻을 수 있다.</item>
+
+    </string-array>
+</resources>
